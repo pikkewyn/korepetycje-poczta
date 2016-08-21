@@ -1,2 +1,2 @@
 # korepetycje-poczta
-notifications containing message content
+notifications containing full message content and author email address
